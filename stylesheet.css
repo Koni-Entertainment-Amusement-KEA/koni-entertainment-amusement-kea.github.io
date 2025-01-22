@@ -12,12 +12,24 @@ body {
     font-family: verdana;
   }
 
-  h5 {
-    background:lightgray;
+  header {
+    background:darkred;
     font-family: verdana;
-    text-align: left;
-    height: 30px;
-    text-align:left;
+    display: block;
+    padding: 14px 16px;
+    text-align:center;
+  }
+
+  a {
+    color: darkblue;
+  }
+
+  a.header {
+    color: white;
+  }
+
+  link {
+    color: white;
   }
 
   img {
