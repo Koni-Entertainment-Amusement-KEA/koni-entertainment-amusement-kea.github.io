@@ -38,14 +38,10 @@ body {
     margin-left: 50%;
   }
 
-  img {
-    margin:auto;
-  }
-
   link {
     color: white;
   }
 
   img {
-    align-self:right;
+    margin: auto;
   }
