@@ -28,6 +28,10 @@ body {
     color: white;
   }
 
+  img.banner {
+    align-self: right;
+  }
+
   link {
     color: white;
   }
